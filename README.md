@@ -1,5 +1,11 @@
 # JS Ethereum Signature Example
 
-Simplest possible signature examples, for use with [MetaMask](https://metamask.io).
+## build
 
-[Live Demo Here](https://danfinlay.github.io/js-eth-personal-sign-examples/)
+```
+npm run build
+```
+
+## tip
+
+ put bundle.js and index.html in the server

@@ -20,7 +20,9 @@
   "dependencies": {
     "eth-sig-util": "^2.1.0",
     "ethereumjs-util": "^5.1.1",
-    "ethjs": "^0.3.0"
+    "ethjs": "^0.3.0",
+    "wan3": "^1.0.0-beta.39",
+    "wanchainjs-util": "git+ssh://git@github.com:wandevs/wanchainjs-util.git#v5.2.0"
   },
   "devDependencies": {
     "babel-runtime": "^6.26.0",
